@@ -1,0 +1,14 @@
+.venv
+.vs
+Debug
+Release
+__pycache__
+build
+dist
+node_modules
+venv
+x64
+*.zip
+*.rar
+*.obj
+*.log
